@@ -215,11 +215,11 @@ footer article i {
 }
 
 footer article:nth-child(even) {
-    background-color: white;
+    background-color: blue;
 }
 
 footer article:nth-child(odd) {
-    background-color: yellow;
+    background-color: white;
 }
 
 @media (min-width: 361px){
