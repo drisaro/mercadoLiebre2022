@@ -211,11 +211,11 @@ footer article {
 footer article i {
     font-size: 2em;
     margin-bottom: 10px;
-    color: yellow;
+    color: white
 }
 
 footer article:nth-child(even) {
-    background-color: yellow;
+    background-color: white;
 }
 
 footer article:nth-child(odd) {
