@@ -211,7 +211,7 @@ footer article {
 footer article i {
     font-size: 2em;
     margin-bottom: 10px;
-    color: #1259c3;;
+    color: yellow;
 }
 
 footer article:nth-child(even) {
@@ -219,7 +219,7 @@ footer article:nth-child(even) {
 }
 
 footer article:nth-child(odd) {
-    background-color: blue;
+    background-color: yellow;
 }
 
 @media (min-width: 361px){
